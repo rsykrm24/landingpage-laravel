@@ -1,0 +1,1 @@
+<div class="bg-gray-600 text-white aspect-square flex justify-center items-center">image</div>
